@@ -1,6 +1,12 @@
 #include <stdio.h>
-int main(void){
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
 	char Strmy[] = "\"Programming is like building a multilingual puzzle";
 	puts(Strmy);
-	return 0;
+	return (0);
 }
