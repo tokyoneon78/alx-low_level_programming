@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-	char Strmy[] = "with proper grammar, but the outcome is a piece of art,";
+	char Strmy[] = "Programming is like building a multilingual puzzle";
 	puts(Strmy);
 	return 0;
 }
