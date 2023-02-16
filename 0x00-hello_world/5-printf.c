@@ -9,7 +9,7 @@
 int main(void)
 {
 
-	char Mystr[] = "with proper grammar, but the outcome is a piece of art,";
+	char Mystr[] = "with proper grammar, but the outcome is a piece of art,\n";
 
 	printf("%s", Mystr);
 
