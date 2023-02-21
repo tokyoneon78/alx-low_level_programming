@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * abs - Calculates distance between number and zero in the numhberline
+ * _abs - Calculates distance between number and zero in the numhberline
  * @n: integer to calculate distance from
  *
  *
