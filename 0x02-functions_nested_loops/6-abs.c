@@ -10,7 +10,7 @@
  * Return: always 0
  */
 
-int abs(int)
+int abs(int n)
 {
 
 	if (n < 0)
