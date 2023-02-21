@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * 0-putchar - Prints _putchar
- * 
+ * main - Prints _putchar
+ *
  *
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
