@@ -1,4 +1,4 @@
-#include "_putchar.c"
+#include "main.h"
 
 /**
  * 0-putchar - Prints _putchar
@@ -10,8 +10,18 @@
 
 int main(void)
 {
+	char text[8] = "_putchar";
+	
+	int i;
 
-_putchar("_putchar");
+	for (i = 0; i < 7; i++)
+	{
+		_putchar(text[i]);
+	}
+	
+	_putchar('\n');
+
+	return (0);
 
 
 
